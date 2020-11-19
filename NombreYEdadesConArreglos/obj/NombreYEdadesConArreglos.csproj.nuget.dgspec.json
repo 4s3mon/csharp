@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "P:\\c#\\añoBisiesto\\añoBisiesto.csproj": {}
+    "P:\\c#\\NombreYEdadesConArreglos\\NombreYEdadesConArreglos.csproj": {}
   },
   "projects": {
-    "P:\\c#\\añoBisiesto\\añoBisiesto.csproj": {
+    "P:\\c#\\NombreYEdadesConArreglos\\NombreYEdadesConArreglos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\c#\\añoBisiesto\\añoBisiesto.csproj",
-        "projectName": "añoBisiesto",
-        "projectPath": "P:\\c#\\añoBisiesto\\añoBisiesto.csproj",
-        "packagesPath": "C:\\Users\\luisa_jafcmv7\\.nuget\\packages\\",
-        "outputPath": "P:\\c#\\añoBisiesto\\obj\\",
+        "projectUniqueName": "P:\\c#\\NombreYEdadesConArreglos\\NombreYEdadesConArreglos.csproj",
+        "projectName": "NombreYEdadesConArreglos",
+        "projectPath": "P:\\c#\\NombreYEdadesConArreglos\\NombreYEdadesConArreglos.csproj",
+        "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
+        "outputPath": "P:\\c#\\NombreYEdadesConArreglos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisa_jafcmv7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

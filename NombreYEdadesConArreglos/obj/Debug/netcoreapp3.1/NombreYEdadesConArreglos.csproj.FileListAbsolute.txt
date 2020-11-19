@@ -1,0 +1,13 @@
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.exe
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.deps.json
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.runtimeconfig.json
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.runtimeconfig.dev.json
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.dll
+P:\c#\NombreYEdadesConArreglos\bin\Debug\netcoreapp3.1\NombreYEdadesConArreglos.pdb
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.csprojAssemblyReference.cache
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.AssemblyInfoInputs.cache
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.AssemblyInfo.cs
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.csproj.CoreCompileInputs.cache
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.dll
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.pdb
+P:\c#\NombreYEdadesConArreglos\obj\Debug\netcoreapp3.1\NombreYEdadesConArreglos.genruntimeconfig.cache
